@@ -8,8 +8,7 @@
 
  - Experience in language C;
  - Basic experience in language Python;
- - Experience in languages HTML and CSS;
- - I'm learning languages JavaScript and Nunjucks;
+ - Experience in languages HTML, CSS, JavaScript, Node, Angular, React;
 
 # How to reach me:
 
